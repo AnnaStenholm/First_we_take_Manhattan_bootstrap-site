@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@100&display=swap');
+    
+body{
+    font-family: 'Sarabun', sans-serif;
+}
+.nav-link{
+    display: block;
+    text-align: center; 
+    padding: .5rem 1rem;
+    color: white;
+}
+
+.navbar {
+    width:100%;
+    padding:top;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+a:link, a:hover{
+    color: burlywood;
+    text-decoration: none;
+    display: inline-block;
+
+}
+.search-button{
+    background-color: burlywood;
+}
+.page-wrapper{
+   width: 100%;
+   min-height: 100%;
+   height: auto !important;
+   display: flex;
+}
+.band-image img{
+    width: 100%;
+    height: auto;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+#slideShow{
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    max-width: 100%;
+}
+h2{
+    margin-left:40px;
+}
+.newsletter{
+    background-color: burlywood;
+    width: 300px;
+    height:300px;
+}
+#contact-button{
+    color:white;
+    background-color: #2b557b;
+}
+form{
+    margin-left: 20px;
+}
+.container{
+    padding: 25px;
+ }
+
+.kolumn-1-index{
+    padding:50px;
+    width:200px;
+    height: 291px;
+    margin-left: 60px;
+}
+
+
+.kolumn-1-about{
+    padding: 50px;
+    background-color: black;
+    width:200px;
+    height: 300px;
+    margin-left: 60px;
+}
+
+.font-weight-normal{
+    margin-left: 40px;
+    font-size:2vw;
+}
+
+
+.about-text{
+    font-size: 1em;
+    color: white;
+}
+.card{
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+.card-text{
+   font-size: 20px;
+}
+.kolumn-4{
+    margin-bottom: 100px;
+}
+
+.sign-in{
+    margin-left:500px;
+    width: 200px;
+    height: 200px;
+    background-color: #ec6a36;
+    margin-bottom: 300px;
+}
+  
+.media{
+    margin-left:40px;
+}
+.mr-3-thetimes{
+    width: 259px;
+    height: 194px;
+}
+.mr-3-idaho{
+    margin-bottom: 200px;
+}
+.page-wrapper{
+    width: 100%;
+    min-height: 100%;
+    height: auto !important;
+    display: flex;  
+ }
+footer{
+    
+    color: #ffff;
+    width:100%;
+    height: 200px;
+    flex-shrink: 0;
+    background-color: #333a41;
+    padding-bottom: 0px;
+    position: fixed;
+    bottom: 0;
+}
+
+li{
+    list-style-type: none;
+    
+}
+
+i{
+    color: white;  
+}
+
+.footer-heading{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+

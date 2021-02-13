@@ -1,0 +1,24 @@
+.kolumn-1-about{
+    padding: 5px;
+    background-color: black;
+    width:150px;
+    height: 384px;
+    margin-bottom: 35px;
+}
+.kolumn-2{
+    margin-bottom: 50px;
+}
+.band-image img{
+    width: 200px;
+    height:160px;
+    margin-bottom: 160px;
+}
+#slideShow{
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 250px;
+}
